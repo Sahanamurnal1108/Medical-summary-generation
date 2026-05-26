@@ -1,4 +1,4 @@
-# Medical Discharge Summary Generation using LLM and RAG
+# Medical Discharge Summary Generation using LLAMA and RAG
 ## Overview
 
 This project focuses on generating structured medical discharge summaries from unstructured clinical transcripts using Meta’s LLaMA 3.1 Large Language Model (LLM).
